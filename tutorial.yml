@@ -1,0 +1,22 @@
+#key value pairs"
+name: "Simone Biles"
+team: "USA"
+birth_year: 1999
+has_won_olympic_gold: true
+current_olympic_champion: false
+
+#Lists
+famous_gymnasts: [Simone Biles, Ellie Black, Suni Lee]
+
+#Another way to write lists
+famous_gymnasts_2: 
+ - Simone Biles
+ - Ellie Black
+ - Suni Lee
+
+ #Dictionaries 
+
+ coaching staff:
+  bars_coach: Laurent Landi
+  beam_coach: Cecille Landi
+  usa_head_coach: Brian Carey
